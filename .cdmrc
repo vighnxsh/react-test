@@ -1,3 +1,6 @@
-tabs: ["src/App.jsx", "src/ChildComponent.jsx", "src/App.css"]
-terminals: ["yarn install && yarn dev"]
+tabs: ['src/App.jsx', 'src/ChildComponent.jsx', 'src/App.css']
+terminals: ['yarn install && yarn dev']
 run-button: yarn dev
+
+playground-view: terminal-editor-browser
+browser-link: http://localhost:5173/
